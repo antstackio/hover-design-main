@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "Hover Component library created by bunch of ants from antstack",
   "main": "index.js",
-  "homepage": "https://antstack.io",
+  "homepage": "https://github.com/antstackio/hover-design",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antstackio/hover-design.git"
+  },
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "hover",
+    "component library",
+    "design system"
+  ],
   "author": "Antstack <connect@antstak.io> (https://antstack.io)",
   "license": "MIT"
 }
