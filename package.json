@@ -1,0 +1,15 @@
+{
+  "name": "hover-design",
+  "version": "1.0.0",
+  "description": "Hover Component library created by bunch of ants from antstack",
+  "main": "index.js",
+  "homepage": "https://antstack.io",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Antstack <connect@antstak.io> (https://antstack.io)",
+  "license": "MIT"
+}
