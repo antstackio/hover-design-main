@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Hover Component library created by bunch of ants from antstack",
   "main": "index.js",
-  "homepage": "https://github.com/antstackio/hover-design",
+  "homepage": "https://github.com/antstackio/hover-design-main",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antstackio/hover-design.git"
+    "url": "git+https://github.com/antstackio/hover-design-main.git"
   },
   "dependencies": {},
   "devDependencies": {},
